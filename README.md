@@ -1,5 +1,5 @@
 This github blog theme is forked from [zJiaJun](https://github.com/zJiaJun).
 
-I use this repo to organise interesting papers, projects, websites, blogs and my reading/study notes.
+This repo is forked from https://github.com/handong1587/handong1587.github.io
 
-Feel free to send pull requests or open issues :-)
+I use this repo to follow recent papers~
