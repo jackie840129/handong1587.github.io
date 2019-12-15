@@ -1388,6 +1388,12 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 - keywords: Average-Precision loss (AP-loss)
 - arxiv: {https://arxiv.org/abs/1904.06373}(https://arxiv.org/abs/1904.06373)
 
+**Efficient Featurized Image Pyramid Network for Single Shot Detector**
+
+- intro: CVPR 2019
+- paper: [http://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Efficient_Featurized_Image_Pyramid_Network_for_Single_Shot_Detector_CVPR_2019_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Efficient_Featurized_Image_Pyramid_Network_for_Single_Shot_Detector_CVPR_2019_paper.pdf)
+- github: [https://github.com/vaesl/LFIP](https://github.com/vaesl/LFIP)
+
 **DR Loss: Improving Object Detection by Distributional Ranking**
 
 - intro: Alibaba Group
@@ -1446,6 +1452,24 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **IMMVP: An Efficient Daytime and Nighttime On-Road Object Detector**
 
 [https://arxiv.org/abs/1910.06573](https://arxiv.org/abs/1910.06573)
+
+**EfficientDet: Scalable and Efficient Object Detection**
+
+[https://arxiv.org/abs/1911.09070](https://arxiv.org/abs/1911.09070)
+
+**Domain Adaptation for Object Detection via Style Consistency**
+
+- intro: BMVC 2019
+- arxiv: [https://arxiv.org/abs/1911.10033](https://arxiv.org/abs/1911.10033)
+
+**Soft Anchor-Point Object Detection**
+
+- intro: Carnegie Mellon University
+- arxiv: [https://arxiv.org/abs/1911.12448](https://arxiv.org/abs/1911.12448)
+
+**IPG-Net: Image Pyramid Guidance Network for Object Detection**
+
+[https://arxiv.org/abs/1912.00632](https://arxiv.org/abs/1912.00632)
 
 # Non-Maximum Suppression (NMS)
 
@@ -2454,6 +2478,10 @@ Continuation of [arXiv:1608.08021](https://arxiv.org/abs/1608.08021)
 **CSID: Center, Scale, Identity and Density-aware Pedestrian Detection in a Crowd**
 
 [https://arxiv.org/abs/1910.09188](https://arxiv.org/abs/1910.09188)
+
+**Semantic Head Enhanced Pedestrian Detection in a Crowd**
+
+[https://arxiv.org/abs/1911.11985](https://arxiv.org/abs/1911.11985)
 
 # Occluded Pedestrian Detection
 

@@ -528,6 +528,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1810.01322](https://arxiv.org/abs/1810.01322)
 - github(PyTorch, official): [https://github.com/leonardblier/alrao](https://github.com/leonardblier/alrao)
 
+**Learning Rate Dropout**
+
+- intro: 1Xiamen University & Columbia University
+- arxiv: [https://arxiv.org/abs/1912.00144](https://arxiv.org/abs/1912.00144)
+
 # Convolution Filters
 
 **Non-linear Convolution Filters for CNN-based Learning**
@@ -1419,6 +1424,10 @@ date: 2015-10-09
 - intro: NeurIPS 2019
 - arxiv: [https://arxiv.org/abs/1909.12220](https://arxiv.org/abs/1909.12220)
 - github(official): [https://github.com/blackfeather-wang/ISDA-for-Deep-Networks](https://github.com/blackfeather-wang/ISDA-for-Deep-Networks)
+
+**Data Augmentation Revisited: Rethinking the Distribution Gap between Clean and Augmented Data**
+
+[https://arxiv.org/abs/1909.09148](https://arxiv.org/abs/1909.09148)
 
 ## Imbalanced Datasets
 

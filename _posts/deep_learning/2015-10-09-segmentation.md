@@ -1328,6 +1328,11 @@ with built-in awareness of semantically meaningful boundaries. "
 
 [https://arxiv.org/abs/1911.06667](https://arxiv.org/abs/1911.06667)
 
+**Shape-aware Feature Extraction for Instance Segmentation**
+
+- intro: CVPR 2020
+- arxiv: [https://arxiv.org/abs/1911.11263](https://arxiv.org/abs/1911.11263)
+
 ## Human Instance Segmentation
 
 **PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model**
@@ -1387,6 +1392,7 @@ with built-in awareness of semantically meaningful boundaries. "
 
 **Attention-guided Unified Network for Panoptic Segmentation**
 
+- intro: CVPR 2019
 - intro: University of Chinese Academy of Sciences & Horizon Robotics, Inc. & The Johns Hopkins University
 - arxiv: [https://arxiv.org/abs/1812.03904](https://arxiv.org/abs/1812.03904)
 
@@ -1424,6 +1430,15 @@ with built-in awareness of semantically meaningful boundaries. "
 
 - intro: AAAI 2020. Innovation Award in COCO 2019 challenge
 - arxiv: [https://arxiv.org/abs/1911.07527](https://arxiv.org/abs/1911.07527)
+
+**Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation**
+
+- intro: UIUC & Google Research
+- arxiv: [https://arxiv.org/abs/1911.10194](https://arxiv.org/abs/1911.10194)
+
+**PanDA: Panoptic Data Augmentation**
+
+[https://arxiv.org/abs/1911.12317](https://arxiv.org/abs/1911.12317)
 
 # Face Parsing
 
@@ -1728,6 +1743,12 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 
 - arxiv: [https://arxiv.org/abs/1910.09777](https://arxiv.org/abs/1910.09777)
 - github: [https://github.com/PeikeLi/Self-Correction-Human-Parsing](https://github.com/PeikeLi/Self-Correction-Human-Parsing)
+
+**Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing**
+
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/1911.12053](https://arxiv.org/abs/1911.12053)
+- github: [https://github.com/Charleshhy/Grapy-ML](https://github.com/Charleshhy/Grapy-ML)
 
 # Joint Detection and Segmentation
 

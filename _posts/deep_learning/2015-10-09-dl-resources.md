@@ -693,6 +693,11 @@ not just the convolutions)
 - intro: ICCV 2019
 - arxiv: [https://arxiv.org/abs/1909.04860](https://arxiv.org/abs/1909.04860)
 
+**AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning**
+
+- intro: Boston University & IBM Research & MIT-IBM Watson AI Lab
+- arxiv: [https://arxiv.org/abs/1911.12423](https://arxiv.org/abs/1911.12423)
+
 # Multi-modal Learning
 
 **Multimodal Deep Learning**
@@ -2647,6 +2652,12 @@ Global Second-order Pooling Neural Networks**
 - intro: Sun Yat-sen University
 - arxiv: [https://arxiv.org/abs/1811.07456](https://arxiv.org/abs/1811.07456)
 - github: [https://github.com/jihanyang/AFN/](https://github.com/jihanyang/AFN/)
+
+**Multi-source Distilling Domain Adaptation**
+
+- intro: AAAI 2020
+- arxiv: [https://arxiv.org/abs/1911.11554](https://arxiv.org/abs/1911.11554)
+- github: [https://github.com/daoyuan98/MDDA](https://github.com/daoyuan98/MDDA)
 
 **awsome-domain-adaptation**
 
